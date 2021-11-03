@@ -10,18 +10,6 @@ import RISK_player as risk_p
 
 
 
-
-
-#cartes objectifs (la même chose pourrait être faite pour les objectifs)
-#par exemple:
-objective = (
-  'full Asia',          #0
-  'full Europa',        #1
-  'full Africa'         #2
-  #etc...
-  )
-
-
 type_end_list = (
   'Game completed',
   'Game interrupted'
