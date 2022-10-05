@@ -3,4 +3,4 @@ RISK game
 
 1. Toto
 
-$\int_{-\infty}^{\infty}x dx$
+$$\int_{-\infty}^{\infty}x dx$$
